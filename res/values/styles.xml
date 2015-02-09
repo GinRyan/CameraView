@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="uifullscreen" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen"></style>
+
+</resources>
