@@ -170,8 +170,7 @@ public class CameraView extends SurfaceView implements Callback {
 			@Override
 			public void onAutoFocus(boolean success, Camera camera) {
 				if (success) {
-					// success为true表示对焦成功，改变对焦状态图像
-
+					
 				}
 			}
 		});
